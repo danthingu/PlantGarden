@@ -1,34 +1,32 @@
 fileFormatVersion: 2
-guid: 52e49ecb8c4387846990a9c501d76e42
-timeCreated: 1499061335
-licenseType: Free
+guid: 3991ba177e1fb40e3861dc0e837ff9f6
 TextureImporter:
   fileIDToRecycleName:
-    21300000: appearing_0
-    21300002: appearing_1
-    21300004: appearing_2
-    21300006: appearing_3
-    21300008: appearing_4
-    21300010: appearing_5
-    21300012: appearing_6
-    21300014: appearing_7
-    21300016: appearing_8
-    21300018: appearing_9
-    21300020: appearing_10
-    21300022: appearing_11
-    21300024: appearing_12
-    21300026: appearing_13
-    21300028: appearing_14
-    21300030: appearing_15
-    21300032: appearing_16
-    21300034: appearing_17
-    21300036: appearing_18
-    21300038: appearing_19
-    21300040: appearing_20
-    21300042: appearing_21
-    21300044: appearing_22
-    21300046: appearing_23
-    21300048: appearing_24
+    21300000: npc_deimaginator__x1_appear_png_1354836021_0
+    21300002: npc_deimaginator__x1_appear_png_1354836021_1
+    21300004: npc_deimaginator__x1_appear_png_1354836021_2
+    21300006: npc_deimaginator__x1_appear_png_1354836021_3
+    21300008: npc_deimaginator__x1_appear_png_1354836021_4
+    21300010: npc_deimaginator__x1_appear_png_1354836021_5
+    21300012: npc_deimaginator__x1_appear_png_1354836021_6
+    21300014: npc_deimaginator__x1_appear_png_1354836021_7
+    21300016: npc_deimaginator__x1_appear_png_1354836021_8
+    21300018: npc_deimaginator__x1_appear_png_1354836021_9
+    21300020: npc_deimaginator__x1_appear_png_1354836021_10
+    21300022: npc_deimaginator__x1_appear_png_1354836021_11
+    21300024: npc_deimaginator__x1_appear_png_1354836021_12
+    21300026: npc_deimaginator__x1_appear_png_1354836021_13
+    21300028: npc_deimaginator__x1_appear_png_1354836021_14
+    21300030: npc_deimaginator__x1_appear_png_1354836021_15
+    21300032: npc_deimaginator__x1_appear_png_1354836021_16
+    21300034: npc_deimaginator__x1_appear_png_1354836021_17
+    21300036: npc_deimaginator__x1_appear_png_1354836021_18
+    21300038: npc_deimaginator__x1_appear_png_1354836021_19
+    21300040: npc_deimaginator__x1_appear_png_1354836021_20
+    21300042: npc_deimaginator__x1_appear_png_1354836021_21
+    21300044: npc_deimaginator__x1_appear_png_1354836021_22
+    21300046: npc_deimaginator__x1_appear_png_1354836021_23
+    21300048: npc_deimaginator__x1_appear_png_1354836021_24
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -49,11 +47,11 @@ TextureImporter:
   generateCubemap: 6
   cubemapConvolution: 0
   seamlessCubemap: 0
-  textureFormat: 1
-  maxTextureSize: 2048
+  textureFormat: -1
+  maxTextureSize: 4096
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -76,23 +74,7 @@ TextureImporter:
   textureFormatSet: 0
   platformSettings:
   - buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-  - buildTarget: Standalone
-    maxTextureSize: 2048
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-  - buildTarget: WebGL
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -103,7 +85,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: appearing_0
+      name: npc_deimaginator__x1_appear_png_1354836021_0
       rect:
         serializedVersion: 2
         x: 0
@@ -114,9 +96,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_1
+      name: npc_deimaginator__x1_appear_png_1354836021_1
       rect:
         serializedVersion: 2
         x: 251
@@ -127,9 +109,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_2
+      name: npc_deimaginator__x1_appear_png_1354836021_2
       rect:
         serializedVersion: 2
         x: 502
@@ -140,9 +122,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_3
+      name: npc_deimaginator__x1_appear_png_1354836021_3
       rect:
         serializedVersion: 2
         x: 0
@@ -153,9 +135,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_4
+      name: npc_deimaginator__x1_appear_png_1354836021_4
       rect:
         serializedVersion: 2
         x: 251
@@ -166,9 +148,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_5
+      name: npc_deimaginator__x1_appear_png_1354836021_5
       rect:
         serializedVersion: 2
         x: 502
@@ -179,9 +161,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_6
+      name: npc_deimaginator__x1_appear_png_1354836021_6
       rect:
         serializedVersion: 2
         x: 0
@@ -192,9 +174,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_7
+      name: npc_deimaginator__x1_appear_png_1354836021_7
       rect:
         serializedVersion: 2
         x: 251
@@ -205,9 +187,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_8
+      name: npc_deimaginator__x1_appear_png_1354836021_8
       rect:
         serializedVersion: 2
         x: 502
@@ -218,9 +200,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_9
+      name: npc_deimaginator__x1_appear_png_1354836021_9
       rect:
         serializedVersion: 2
         x: 0
@@ -231,9 +213,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_10
+      name: npc_deimaginator__x1_appear_png_1354836021_10
       rect:
         serializedVersion: 2
         x: 251
@@ -244,9 +226,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_11
+      name: npc_deimaginator__x1_appear_png_1354836021_11
       rect:
         serializedVersion: 2
         x: 502
@@ -257,9 +239,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_12
+      name: npc_deimaginator__x1_appear_png_1354836021_12
       rect:
         serializedVersion: 2
         x: 0
@@ -270,9 +252,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_13
+      name: npc_deimaginator__x1_appear_png_1354836021_13
       rect:
         serializedVersion: 2
         x: 251
@@ -283,9 +265,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_14
+      name: npc_deimaginator__x1_appear_png_1354836021_14
       rect:
         serializedVersion: 2
         x: 502
@@ -296,9 +278,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_15
+      name: npc_deimaginator__x1_appear_png_1354836021_15
       rect:
         serializedVersion: 2
         x: 0
@@ -309,9 +291,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_16
+      name: npc_deimaginator__x1_appear_png_1354836021_16
       rect:
         serializedVersion: 2
         x: 251
@@ -322,9 +304,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_17
+      name: npc_deimaginator__x1_appear_png_1354836021_17
       rect:
         serializedVersion: 2
         x: 502
@@ -335,9 +317,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_18
+      name: npc_deimaginator__x1_appear_png_1354836021_18
       rect:
         serializedVersion: 2
         x: 0
@@ -348,9 +330,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_19
+      name: npc_deimaginator__x1_appear_png_1354836021_19
       rect:
         serializedVersion: 2
         x: 251
@@ -361,9 +343,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_20
+      name: npc_deimaginator__x1_appear_png_1354836021_20
       rect:
         serializedVersion: 2
         x: 502
@@ -374,9 +356,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_21
+      name: npc_deimaginator__x1_appear_png_1354836021_21
       rect:
         serializedVersion: 2
         x: 0
@@ -387,9 +369,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_22
+      name: npc_deimaginator__x1_appear_png_1354836021_22
       rect:
         serializedVersion: 2
         x: 251
@@ -400,9 +382,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_23
+      name: npc_deimaginator__x1_appear_png_1354836021_23
       rect:
         serializedVersion: 2
         x: 502
@@ -413,9 +395,9 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     - serializedVersion: 2
-      name: appearing_24
+      name: npc_deimaginator__x1_appear_png_1354836021_24
       rect:
         serializedVersion: 2
         x: 0
@@ -426,7 +408,7 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      tessellationDetail: 0
+      tessellationDetail: -1
     outline: []
   spritePackingTag: 
   userData: 
